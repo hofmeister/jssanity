@@ -1,0 +1,27 @@
+{
+  "name": "jssanity",
+  "version": "1.0.0",
+  "description": "Sanity checker for js modules (package.json)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hofmeister/jssanity.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hofmeister/jssanity/issues"
+  },
+  "bin": {
+    "jssanity": "bin/jssanity"
+  },
+  "homepage": "https://github.com/hofmeister/jssanity#readme",
+  "dependencies": {
+    "@babel/parser": "7.9.4",
+    "glob": "7.1.6",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.9.0"
+  }
+}
