@@ -1,6 +1,6 @@
 {
   "name": "jssanity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sanity checker for js modules (package.json)",
   "main": "index.js",
   "repository": {
