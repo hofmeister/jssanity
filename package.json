@@ -19,7 +19,7 @@
   "dependencies": {
     "@babel/parser": "7.9.4",
     "glob": "7.1.6",
-    "lodash": "4.17.15"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "@babel/types": "^7.9.0"
